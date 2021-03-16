@@ -1,0 +1,7 @@
+.suo
+bin
+obj
+x64
+.vs
+Debug
+packages
